@@ -1,0 +1,7 @@
+Algoritmo EdadEnDias
+	Definir edad Como Entero
+	Escribir 'Ingresa tu edad en años.'
+	Leer edad
+	dias <- edad*365
+	Escribir 'su edad aproximada en días es: ', dias, ' días.'
+FinAlgoritmo

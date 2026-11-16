@@ -1,0 +1,24 @@
+Algoritmo Propinas
+	Definir cuenta Como Entero
+	Definir ptePropina Como Entero
+	definir personas Como Entero
+	definir total Como Entero
+	definir cadauno Como Real
+	
+	Escribir "ingrese la cantidad a pagar"
+	leer cuenta
+	
+	Escribir "ingrese el porcentaje de propina a pagar"
+	leer ptePropina
+	
+	Escribir "ingrese la cantidad de personas que asistieron"
+	leer personas
+	
+	propina=cuenta*(ptePropina/100)
+	total=cuenta+propina
+	cadauno=total/personas
+	
+	Escribir "La propina a dar es: $", propina
+	escribir "El total a pagar es: $", total
+	escribir "De acuerdo al número de personas, la cantidad que debe pagar cada uno es: $", cadauno
+FinAlgoritmo
