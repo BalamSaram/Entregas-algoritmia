@@ -1,13 +1,13 @@
 # Traza facturas
-Paso | Acción | Subtotal | Impuesto | Propina | Total
------------------------------------------------------
-1 | Se ingresa el subtotal | 62000 | - | - | - 
-2 | Se calcula el impuesto: 62000 x 8/100 | 62000 | 4960 | - | - 
-3 | Se calcula la propina: 62000x10/100 | 62000 | 4960 | 6200 | -
-4 | se suman el subtotal, impuesto y propina | 62000 | 4960 | 6200 | 73160
+| Paso | Acción | Subtotal | Impuesto | Propina | Total |
+|---:|---:|---:|---:|---:|:---|
+| 1 | Se ingresa el subtotal | 62000 | - | - | - |
+| 2 | Se calcula el impuesto: 62000 x 8/100 | 62000 | 4960 | - | - |
+| 3 | Se calcula la propina: 62000x10/100 | 62000 | 4960 | 6200 | - |
+| 4 | se suman el subtotal, impuesto y propina | 62000 | 4960 | 6200 | 73160 |
 
 ## Traza algoritmo pirámide
-| Fila (`filas`) | Espacios (`n - filas`) | Asteriscos (`2 × filas - 1`) | Salida |
+| Fila | Espacios | Asteriscos | Salida |
 |---:|---:|---:|:---|
 | 1 | 3 | 1 | `   *` |
 | 2 | 2 | 3 | `  ***` |
