@@ -6,6 +6,13 @@ Paso | Acción | Subtotal | Impuesto | Propina | Total
 3 | Se calcula la propina: 62000x10/100 | 62000 | 4960 | 6200 | -
 4 | se suman el subtotal, impuesto y propina | 62000 | 4960 | 6200 | 73160
 
+## Traza algoritmo pirámide
+| Fila (`filas`) | Espacios (`n - filas`) | Asteriscos (`2 × filas - 1`) | Salida |
+|---:|---:|---:|:---|
+| 1 | 3 | 1 | `   *` |
+| 2 | 2 | 3 | `  ***` |
+| 3 | 1 | 5 | `*******` |
+
 # Árbol de componentes de sitio web
 Sitio web escogido:
 Youtube
