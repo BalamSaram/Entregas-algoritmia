@@ -59,3 +59,24 @@ La propina a dar es: $19200
 El total a pagar es: $259200
 De acuerdo al número de personas, la cantidad que debe pagar cada uno es: $64800
 **Ejecución Finalizada**
+
+
+# Pruebas de algortimo PromedioNotas:
+
+## 1
+**Ejecución Iniciada**
+Ingrese sus tres notas
+>4.0
+>3.5
+>4.5
+su promedio de notas es: 4
+**Ejecución Finalizada.**
+
+## 2
+**Ejecución Iniciada**
+Ingrese sus tres notas
+>3
+>3
+>4
+su promedio de notas es: 3.333
+**Ejecución Finalizada.**
